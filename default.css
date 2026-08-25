@@ -1,0 +1,12 @@
+/* Меняйте переменные здесь: JavaScript от этой темы не зависит. */
+:root {
+  --color-primary: #111111; --color-background: #ffffff; --color-surface: #f6f6f4;
+  --color-text: #171717; --color-text-secondary: #6e6e6e; --color-border: #deded9;
+  --color-accent: #111111; --color-danger: #a62121; --color-success: #277043;
+  --color-on-primary: #ffffff; --color-focus: #87b7ff; --color-sale-bg: #ffe3e3;
+  --color-sale-text: #9d2020; --color-muted: #eeeeee;
+  --font-main: Arial, Helvetica, sans-serif; --font-heading: Georgia, 'Times New Roman', serif;
+  --radius-small: 4px; --radius-medium: 10px; --radius-large: 20px;
+  --container-width: 1400px; --spacing-small: 8px; --spacing-medium: 16px; --spacing-large: 32px;
+  --shadow: 0 10px 30px rgba(0,0,0,.07);
+}

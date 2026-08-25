@@ -1,0 +1,12 @@
+{
+  "name": "NOVA",
+  "description": "Modern streetwear for everyday movement.",
+  "logo": "assets/logo/nova.svg",
+  "currency": "грн",
+  "phone": "+380 00 000 00 00",
+  "instagram": "#",
+  "telegram": "#",
+  "email": "hello@nova.example",
+  "heroTitle": "New essentials for the city",
+  "heroText": "Чистые силуэты, комфортные ткани и вещи, которые легко сочетать каждый день."
+}
